@@ -1,0 +1,8 @@
+{
+  "name": "ወርቃማ ሰኞ - የዕውቀት ሽግግር ፕሮግራም | ቦሌ ወረዳ 01",
+  "description": "ቦሌ ወረዳ 01 የህብረተሰብ ተሳትፎና በጎ ፈቃድ ማስተባበሪያ ጽ/ቤት የዕውቀት ሽግግር ፕሮግራም (ወርቃማ ሰኞ) ዓመታዊ የሰኞ መርሐ ግብር፣ ዳሽቦርድ እና የኢትዮጵያ ቀን መቁጠሪያ።",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
